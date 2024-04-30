@@ -3,9 +3,16 @@
     color: white;
 }
 
+.my_bg-white {
+    background-color: white;
+}
+
+.my_bg-dark {
+    background-color: #212529;
+}
+
 .linea {
     height: 3px;
     width: 80px;
     border-radius: 2px;
-    background-color: white;
 }
