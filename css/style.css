@@ -2,3 +2,10 @@
     background-color: #1abc9c;
     color: white;
 }
+
+.linea {
+    height: 3px;
+    width: 80px;
+    border-radius: 2px;
+    background-color: white;
+}
