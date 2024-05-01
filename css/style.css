@@ -30,3 +30,11 @@
     width: 80px;
     border-radius: 2px;
 }
+
+img[alt=avatar] {
+    width: 200px;
+}
+
+a {
+    color: white;
+}
